@@ -1,0 +1,9 @@
+[package]
+name = "mqttlib"
+version = "0.1.0"
+authors = ["姚子建 <yaozijian110@126.com>"]
+edition = "2018"
+
+[dependencies]
+bincode="1.1.2"
+serde="1.0.89"
